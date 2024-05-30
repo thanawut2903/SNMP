@@ -28,6 +28,6 @@ Ans : recon{rnYsicEYHM*SYrmq1StPAU4L38S}
 
 
 
-![image](https://github.com/thanawut2903/SNMP/assets/159118913/9af70ead-c79f-40a0-92c2-20ca79240886)
+
 
 
